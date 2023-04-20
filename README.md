@@ -1,4 +1,4 @@
-# Project 1: Stock Market Analysis
+# Project 1: Stock Market Comparative Analysis
 This project aims to analyze historical stock market data and provide insights into stock trends, patterns, and performance using data visualization techniques. The data used in this project includes stock prices, volumes, and other relevant financial indicators.
 
 Objective
